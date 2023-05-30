@@ -1,0 +1,16 @@
+{
+  "alunos": [
+    {
+      "nome": "Ana Flores",
+      "curso": "TI",
+      "num_inscricao": "1273848753",
+      "id": 2
+    },
+    {
+      "nome": "gfdgg",
+      "curso": "dfsdgfd",
+      "num_inscricao": "3534534",
+      "id": 3
+    }
+  ]
+}

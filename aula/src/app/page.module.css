@@ -1,0 +1,10 @@
+.main{
+    border: solid 2px rgb(229, 127, 255);
+    padding: 16px;
+    width: 35%;
+    text-align: center;
+   
+    height: 450px;
+    border-radius: 18px;
+    margin-top: 2%;
+}

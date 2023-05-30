@@ -1,0 +1,40 @@
+body{
+    background: rgb(114,88,120);
+    background: linear-gradient(90deg, rgba(114,88,120,1) 0%, rgba(96,21,115,1) 35%, rgba(85,0,134,1) 100%);
+}
+.titulo{
+   font-size: 22px;
+   font-weight: 600;
+   color: white;
+}
+.leo{
+    border: none;
+    color: white;
+    background-color:#5a0f6d;
+    border-radius: 16px;
+    width: 72%;
+    height: 30px;
+    padding: 10px;
+    margin: 8px;
+    
+}
+.btn{
+   border: none;
+   padding: 10px;
+   color: rgb(72, 13, 87);
+   border-radius: 10px;
+   width: 75%;
+}
+.btn:hover{
+    transition: 1s ease-in-out;
+    background: #1fff31;
+    color: white;
+}
+.voltar{
+    padding: 10px;
+border: none;
+border-radius: 10px;
+background-color: red;
+color: white;
+text-decoration: none;
+}
